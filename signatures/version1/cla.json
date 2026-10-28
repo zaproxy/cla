@@ -1319,6 +1319,22 @@
       "created_at": "2026-10-28T15:19:10Z",
       "repoId": 35210580,
       "pullRequestNo": 7858
+    },
+    {
+      "name": "arturcatao",
+      "id": 142845155,
+      "comment_id": 6478247530,
+      "created_at": "2026-10-28T19:14:11Z",
+      "repoId": 36817565,
+      "pullRequestNo": 9518
+    },
+    {
+      "name": "malugomesp",
+      "id": 214660343,
+      "comment_id": 6478250278,
+      "created_at": "2026-10-28T19:14:20Z",
+      "repoId": 36817565,
+      "pullRequestNo": 9518
     }
   ]
 }
